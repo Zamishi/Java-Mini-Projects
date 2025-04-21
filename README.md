@@ -5,9 +5,12 @@ This repository contains a collection of Java-based mini projects developed usin
 ## 🔧 Projects Included
 
 ### 1. ATM System
-- Deposit, withdraw, and transfer functionalities
 - Balance display and transaction history
 - Console-based interface
+- User authentication (login via PIN)
+- Withdrawal, Deposit, and Balance Inquiry
+- Transaction logging
+- Menu-driven navigation
 
 📂 [Go to ATM System](./ATM-System)
 
@@ -17,6 +20,11 @@ This repository contains a collection of Java-based mini projects developed usin
 - Random number guessing game
 - Scoring system and limited attempts
 - Console interaction with feedback messages
+- Simple interactive console game
+- Random number generation
+- Score tracking and replay option
+
+  
 
 📂 [Go to Guess The Number](./Guess-The-Number)
 
@@ -24,23 +32,38 @@ This repository contains a collection of Java-based mini projects developed usin
 
 ### 3. Online Reservation System
 - Secure login & user authentication
-- Booking, cancellation & history features
-- Uses MySQL for database storage
+- Book, cancel, and view reservations
+- Train schedule simulation
+- Admin and user login system
+- Data persistence via MySQL
+
 
 📂 [Go to Online Reservation System](./Online-Reservation-System)
 
 ---
 
 ## 📁 Technologies Used
-- Java (JDK 8+)
-- Spring Tool Suite (STS)
-- MySQL
+- Java (Core + STS)
+- MySQL (for DB-backed projects)
 - Maven
-- Console-based UI
+- OOP & Exception Handling
+- File I/O & Menu-driven Logic
+
+  
+---
+
+## 📁 How to Run
+- Clone this repo
+- Open any project folder in your Java IDE (like STS or IntelliJ)
+- Run the `Main.java` file
+- For MySQL-based project, setup DB schema as mentioned in comments
 
 ---
 
 ## ✨ Author
 **Amishi Sharma**  
 🎓 Oasis Infobyte Internship Projects  
-🔗 [GitHub Profile](https://github.com/Zamishi)
+🔗 [GitHub Profile](https://github.com/Zamishi) # Java Mini Projects 🧑‍💻
+
+
+
